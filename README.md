@@ -1,4 +1,12 @@
 # shadowsocksqt5-
+
+## 2020-07-27更新
+
++ 增加pac文件
+
+-----
+以下为原文
+
 shadowsocksq5的安装与设置全局代理
 
 
